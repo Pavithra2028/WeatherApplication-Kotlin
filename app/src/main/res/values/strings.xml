@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_report">Weather Report</string>
+    <string name="mon_18_2023">Mon 18,2023</string>
+    <string name="chennai">Chennai</string>
+    <string name="light_rain">Light Rain</string>
+    <string name="_24">24</string>
+    <string name="_22">22%</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="mon_dec_25_10_00_am">Mon Dec 25 | 10.00 AM</string>
+    <string name="_25">25°</string>
+    <string name="h_27_l_18">H:27 L:18</string>
+    <string name="_10">10</string>
+    <string name="humidity">Humidity</string>
+    <string name="_20">20%</string>
+    <string name="wind">Wind</string>
+    <string name="_23">23%</string>
+    <string name="rain">Rain</string>
+    <string name="_26">26%</string>
+    <string name="next_7_days">Next 7 days</string>
+    <string name="back">Back</string>
+    <string name="cloudy_sunny">Cloudy Sunny</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="sat">Sat</string>
+    <string name="storm">Storm</string>
+    <string name="api_key">xxxxx</string>
+    <string name="today">Today</string>
+    <string name="feels_like">Feels like</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="pressure">Pressure</string>
+
+</resources>
